@@ -1,0 +1,2 @@
+serviceClass: com.aserputko.client.GreetingService
+path: 8C63903170CADE2C55C588292738F728.gwt.rpc
